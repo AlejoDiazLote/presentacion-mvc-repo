@@ -1,0 +1,14 @@
+
+EN CADA REPOSITORIO SE ENCUNETRAN LOS PASOS PARA EJECUTAR EL PROGRAMA EN EL README 
+
+Enlace al repositorio del FrontEnd:
+
+	https://github.com/AlejoDiazLote/FrontArquiTallerIIGrupo1.git 
+
+Enlace al repositorio del BackEnd:
+
+	https://github.com/AlejoDiazLote/BackArquiTallerIIGrupo1.git 
+
+Enlace al repositorio de las Bases de Datos:
+
+	https://github.com/AlejoDiazLote/BaseDatosArquiTallerIIGrupo1.git 
